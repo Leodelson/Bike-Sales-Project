@@ -4,7 +4,7 @@
 ### 10/10/2014
 ## Overview of Bike Sales Analysis Dashboard
 ![Bike Sales Analysis ](https://github.com/user-attachments/assets/18ec36d7-ff49-477a-af62-b23c4937d0bd)
-## These analysis provides insights into customer income, marital status, commute distance, occupation, region, and education to help the company make informed business decisions.
+## This Bike Sales Analysis project provides insights into customer income based on marital status, commute distance, occupation, region, and education. These insights help the company identify target audiences for social media ads and make informed business decisions."
 ###  Marital Status by Income:
 ![image](https://github.com/user-attachments/assets/e949ef3a-39a1-4440-bda2-bc4a9e8d8f6e)
 
@@ -28,6 +28,7 @@
 #### Region by Income: The Bike Sales Company should target customers living in North America  more, and then followed by Europe and Pacific.
 #### Education by Income: The Bike Sales Company should target customers with Bachelors Dregree more, and then followed by Graduate Degree and Partial College.
 ## Conclusion
+#### This Bike Sales Analysis project provides insights into customer income based on marital status, commute distance, occupation, region, and education. These insights help the company identify target audiences for social media ads and make informed business decisions."
 
 
 
