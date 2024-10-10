@@ -1,5 +1,5 @@
 # Bike-Sales-Project
-## Helping United States Bike Sales Company Understand Their Customer Income
+## Helping United States Bike Sales Company Understand Their Customer Income for targeting.
 ### Analyst Leo
 ### 10/10/2014
 ## Overview of Bike Sales Analysis Dashboard
