@@ -22,6 +22,13 @@
 #### Married customers earn higher $31.59M compared to single customers at $24.77M.
 #### Bachelor's degree holders earn the highest income ($19.28M), while Partial High School earns the least ($14.5M).
 #### Customers living in North America earns ($31.88M) higher income than the ones living in Europe ($12.270M), and Pacific ($12.21M).
+## Recommendations
+#### Marital Status by Income: The Bike Sales company should target Married customers more and then followed by Single Customers.
+#### Occupation by Income: The Bike Sales Company should target Bachelors Degree more and then Partial College, then followed by Graduate Degree.
+#### Region by Income: The Bike Sales Company should target customers living in North America  more, and then followed by Europe and Pacific.
+#### Education by Income: The Bike Sales Company should target customers with Bachelors Dregree more, and then followed by Graduate Degree and Partial College.
+## Conclusion
+
 
 
 
