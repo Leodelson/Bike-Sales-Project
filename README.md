@@ -4,7 +4,7 @@
 ### Date: 10/10/2014
 ## Overview of Bike Sales Analysis Dashboard
 ![Bike Sales Analysis ](https://github.com/user-attachments/assets/18ec36d7-ff49-477a-af62-b23c4937d0bd)
-## This Bike Sales Analysis project provides insights into customer income based on marital status, commute distance, occupation, region, and education. These insights help the company identify target audiences for social media ads and make informed business decisions."
+## This Bike Sales Analysis project provides insights into customer income based on marital status, commute distance, occupation, region, and education. These insights help the company identify target audiences for social media ads and make informed business decisions.
 ###  Marital Status by Income:
 ![image](https://github.com/user-attachments/assets/e949ef3a-39a1-4440-bda2-bc4a9e8d8f6e)
 
