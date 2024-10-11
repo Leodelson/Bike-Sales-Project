@@ -1,7 +1,7 @@
 # Bike-Sales-Project
 ## United States Bike Sales Company want to Understand Their Customer Income for social media ads targeting.
 ### Analyst: Leo
-### Date: 10/10/2014
+### Date: 10/10/2024
 ## Overview of Bike Sales Analysis Dashboard
 ![Bike Sales Analysis ](https://github.com/user-attachments/assets/18ec36d7-ff49-477a-af62-b23c4937d0bd)
 ## This Bike Sales Analysis project provides insights into customer income based on marital status, commute distance, occupation, region, and education. These insights help the company identify target audiences for social media ads and make informed business decisions.
