@@ -15,7 +15,7 @@
 ### Region by Income:
 ![image](https://github.com/user-attachments/assets/4a65d25e-72b6-4855-9b75-626233743ebb)
 #### Key Insights: North America earns ($31.88M), Europe ($12.270M), and Pacific ($12.21M). Customers living in North America earns higher income than the ones living in Pacific and Europe.
-### Education by Income
+### Education by Income:
 ![image](https://github.com/user-attachments/assets/1292e84f-339a-477b-8b64-c2e790b9694c)
 #### Key Insights: Bachelor's degree holders earns ($10m), followed by Graduate degrees ($8m), and then Partial college ($6.4m)
 ## Summary of Key Insights
